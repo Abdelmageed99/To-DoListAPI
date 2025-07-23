@@ -16,7 +16,7 @@ A simple, modular, and secure To-Do List API built with **ASP.NET Core** using:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-api.git
+   git clone git@github.com:Abdelmageed99/To-DoListAPI.git
    cd todo-api
    ```
 
